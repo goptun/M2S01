@@ -19,3 +19,15 @@ Crie um programa em Java que, utilizando a classe Scanner, pergunte ao usuário 
 ### Ex 05 - Calculadora de média final
 
 Crie um programa em Java que, utilizando a classe Scanner, peça ao usuário para inserir as notas do semestre, e deve retornar a média final. O programa deve pedir 3 notas, que devem ser números reais, e retornar um número real com 2 casas depois da vírgula, com o texto “Sua média final é:” seguido do valor.
+
+### Ex 06 - Definir possibilidade de voto
+
+Crie um programa em Java que, utilizando a classe Scanner, pergunte ao usuário sua data de nascimento e calcule a sua idade.
+
+Se o usuário tiver 16, 17, ou mais de 59 anos, o voto é opcional.
+
+Entre 18 e 59 anos, o voto é obrigatório.
+
+Abaixo de 16, o voto é proibido.
+
+Informe ao usuário a situação de voto.
