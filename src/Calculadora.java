@@ -52,5 +52,6 @@ public class Calculadora {
         System.exit(1);
     }
       System.out.print("O resultado é: " + resultado);
+      user.close();
   }
 }
