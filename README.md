@@ -43,3 +43,27 @@ Crie um programa em Java que, utilizando a classe Scanner, simule uma calculador
 Relembrando: P.A. (Progressão Aritmética) é uma sequência numérica em que cada termo, a partir do segundo, é igual à soma do termo anterior com a raiz. Exemplo: Valor inicial = 1; raiz = 3; P.A. = 1, 4, 7, 10, 13, 16, 19, 22, 25, 28.
 
 P.G. (Progressão Geométrica) é como uma P.A., mas em vez de somar, multiplica-se a raiz. Exemplo: Valor inicial = 1; raiz = 3; P.G. = 1, 3, 9, 27, 81...
+
+### Ex 09 - Reajuste de salário
+
+A sua empresa resolveu dar um aumento de salário aos seus funcionários e te pediram para desenvolver o programa que calculará os reajustes.
+
+a. Faça um programa que recebe o salário de um funcionário e o reajuste segundo o seguinte critério, baseado no salário atual;
+
+b. Salários até R$ 1200,00 (incluindo): aumento de 20%;
+
+c. Salários entre R$ 1200,00 e R$1700,00: aumento de 15%;
+
+d. Salários entre R$ 1700,00 e R$ 2500,00: aumento de 10%;
+
+e. Salários de R$ 2500,00 em diante: aumento de 5%
+
+Após o aumento ser realizado; informe na tela;
+
+a. O salário antes do reajuste;
+
+b. O percentual de aumento aplicado;
+
+c. O valor do aumento;
+
+d. O novo salário, após o aumento.
